@@ -1,6 +1,6 @@
 # Solidity Program: MyToken
 
-This is a Solidity smart contract that implements a basic token called MELVIN with functionalities for minting and burning tokens.
+This is a Solidity smart contract that implements a basic token contract called Mytoken with functionalities for minting and burning tokens.
 
 ## Requirements
 
